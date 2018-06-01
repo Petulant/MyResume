@@ -1,0 +1,114 @@
+.nav{
+    height: 100px;
+    background-color: darkgoldenrod;
+    
+}
+
+.nav ul li{
+    float: right;
+    color: black;
+    display: block;
+    margin-left: 20px;
+    border: 1px solid;
+    font: outline;
+    
+}
+
+
+
+
+h1{
+    text-align: center
+}
+
+table,th,td{
+    border:5px solid brown; 
+    padding: 2%;
+}
+
+table{
+    border: 1px solid;
+    text-align:center;
+    justify-content: center;
+    margin:auto;
+    width: 50%;
+    
+}
+
+.div1 p{
+     width: 200px;
+     height: 400px;
+     text-align:center;
+     background-color:brown;
+     
+}
+
+.div1 img{
+    border: 5px solid rgb(165,42,42);
+    width: 18%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+/*style for footer*/
+
+footer{
+    border: 1px groove #aaaaaa;
+    background-color:darkgoldenrod;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    height: 30px;
+    position:fixed;
+    vertical-align: middle;
+    font-size: 100%;
+    text-align: center;
+    line-height:normal;
+    padding: 0;
+
+}
+#center{
+    text-align: center;
+    justify-content: center;
+}
+
+#border{
+    position:absolute;
+    top:150;
+    left:0;
+    right: 0;
+    margin: auto;
+    width:400px;
+    height: 400px;
+
+}
+#name,#email{
+    width: 100%;
+    
+}
+#message{
+    margin-bottom:10px;
+    width: 100%;
+    height: 100%;
+}
+
+/*style for Button in Contacts*/
+button{
+  width: 50%;
+  height: 10%;
+  background-color:darkgoldenrod;
+  color:black;
+  margin-left: 1px;
+  border: 1px solid;
+  padding: 0%;
+  padding-bottom: 0%;
+  padding-right: 70%;
+  padding-left: 30%;
+  
+  
+  
+}
